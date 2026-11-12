@@ -1,5 +1,5 @@
 import streamlit as st
-import opencv_python_headless
+import cv2
 import tempfile
 import os
 import pandas as pd
